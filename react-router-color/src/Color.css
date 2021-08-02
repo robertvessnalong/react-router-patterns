@@ -1,0 +1,15 @@
+.Color {
+  width: 500px;
+  height: 500px;
+}
+
+.Color a {
+  padding: 15px;
+  background-color: #ccc;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: lightcoral;
+  text-decoration: none;
+  border-radius: 10px;
+}
